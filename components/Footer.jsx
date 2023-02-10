@@ -9,7 +9,7 @@ const Footer = () => {
       <p className="logo">
         <Link href="/">Jsm HeadPhones</Link>
       </p>
-     <h3> Lets go for a <FaBeer />? </h3>
+      <h3> Lets go for a <FaBeer />? </h3>
       {/* <button type="button" className="cart-icon" onClick=""><AiOutlineShoppingCart /></button> */}
     </div>
   )
